@@ -1,2 +1,0 @@
-# blogPics
-blog pics
