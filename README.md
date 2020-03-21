@@ -1,2 +1,2 @@
 # blogPics
-markdown pictures
+blog pics
